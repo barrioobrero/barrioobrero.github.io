@@ -7,4 +7,5 @@ section_path = "blog/_index.md"
 max_posts = 5
 +++
 
-Welcome to my personal site!
+Título del proyecto: 
+Mapeando soberanía alimentaria. Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero. 
