@@ -1,6 +1,6 @@
 base_url = "https://BarrioObrero.libre.net.ar"
-title = "Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero"
-description = "Barrio Obrero"
+title = "Barrio Obrero"
+description = "Mapeando soberanía alimentaria. Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero"
 author = "Quechalen"
 theme = "tabi"
 generate_feeds = true
