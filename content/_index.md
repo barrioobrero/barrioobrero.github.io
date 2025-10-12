@@ -308,6 +308,6 @@ En la identificación de la potencialidad de la herramienta, nos permite pensar 
 
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4394.png)
 
-![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4478.png)
-
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/before-after_barrio-obrero.png)
+
+![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4478.png)
