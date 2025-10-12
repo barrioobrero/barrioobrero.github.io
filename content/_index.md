@@ -32,7 +32,7 @@ Escuela Pública de gestión privada. DGIPE. Dirección General de Institutos Pr
 CUE: 1401400 02- EE: 1240222\.  
 Domicilio: Aníbal Ponce 1262\. Barrio Obrero. Barrio Alberdi. Río Cuarto. Córdoba.
 
-Presentación institucional
+# Presentación institucional
 
 El Instituto Quechalen es una escuela de nivel secundario con modalidad rural ubicada en el barrio Obrero de la ciudad de Río Cuarto, sureste de la ciudad de Río Cuarto. Funciona como Anexo del Instituto La Sagrada Familia.
 
@@ -82,30 +82,25 @@ Para fortalecer la dimensión productiva en el territorio, necesitamos entonces 
 
 Entre otros, se sostienen los siguientes principios:
 
-- #### Autonomía productiva. En el campo popular, entendida ésta como la capacidad colectiva de desarrollar prácticas generadoras de vida en situaciones de pobreza por falta de trabajo
-
-- Buen vivir  
-- Producción entramada  
-- Trabajo colaborativo  
-- Des-cubrimiento de recursos y reservas (saberes) populares existentes.  
-- Solidaridad productiva  
-- Construcción de soberanía  
-- Economía social y solidaria  
+- Autonomía productiva. En el campo popular, entendida ésta como la capacidad colectiva de desarrollar prácticas generadoras de vida en situaciones de pobreza por falta de trabajo
+- Buen vivir
+- Producción entramada
+- Trabajo colaborativo
+- Des-cubrimiento de recursos y reservas (saberes) populares existentes.
+- Solidaridad productiva
+- Construcción de soberanía
+- Economía social y solidaria
 - entre otros
 
 # Objetivos 
 
 * Fortalecer procesos de autonomía productiva en los sectores populares.
-
 * Entramar unidades productivas institucionales y barriales para que logren superar el aislamiento productivo, la micro escala en la producción y la competencia entre vecinos.
-
 * Recuperar prácticas de grupos existentes que vienen desarrollando actividades/acciones productivas barriales, con saberes construidos en torno al rubro alimentación: panificados, derivados, pastelería, pastas, conservas y dulces, entre otras.
-
 * Fomentar la reflexión crítica sobre el impacto ambiental y la soberanía alimentaria en el contexto de la producción y el consumo. 
-
 * Acompañar el desarrollo de proyectos emprendedores dentro de la comunidad educativa, promoviendo el comercio justo y el trabajo en equipo.  
   
-La presente propuesta contiene dos dimensiones centrales: 
+# La presente propuesta contiene dos dimensiones centrales
 
 * **Dimensión Pedagógica**: Involucra una dimensión pedagógica con estudiantes del barrio. (Grupos de estudiantes de Ciclo orientado del Instituto Quechalen, estudiantes del secundario de adultos CENMA Remedio Escalada, familias con quienes se han realizado talleres de producción de alimentos y de seguridad alimentaria)  a fin de potenciar la formación productiva.  
 * **Dimensión productiva**: entramando las Unidades productivas existentes y/o dar lugar a nuevas unidades productivas a fin de que en forma organizada y planificada puedan constituirse como grupo de trabajo estable que sostenga un volumen de la producción que aporte a la economía familiar. Visibilizando además oficios barriales. 
@@ -190,17 +185,14 @@ A partir de esta trayectoria, la jornada de mapeo colaborativo se constituyó en
 
 Con este propósito, se definieron objetivos claros que orientaron la actividad práctica: 
 
-- Fomentar el trabajo colaborativo interinstitucional entre la universidad, la escuela y la comunidad. 
-
-- Utilizar tecnologías abiertas que posibiliten la construcción colectiva de información geográfica. 
-
-- Visibilizar el territorio desde la perspectiva de quienes lo habitan. 
-
+- Fomentar el trabajo colaborativo interinstitucional entre la universidad, la escuela y la comunidad.
+- Utilizar tecnologías abiertas que posibiliten la construcción colectiva de información geográfica.
+- Visibilizar el territorio desde la perspectiva de quienes lo habitan.
 - Promover una lectura crítica del territorio, reconociendo sus recursos, desafíos y potencialidades.
 
 Durante la jornada se trabajó con las siguientes herramientas digitales abiertas: 
 
-OpenStreetMap (OSM), ChatMap, uMap.
+OpenStreetMap (OSM), ChatMap, uMap. iD editor,JOSM, Tasking Manager
 
 Se armaron los grupos de trabajo para organizar el mapeo en campo, y se creó un grupo de Whatsapp. 
 
@@ -233,7 +225,7 @@ Con la Universidad  Nacional de Río Cuarto, la escuela se vincula a través de:
 * ¿Cómo han contribuido las herramientas de mapeo?  
 * ¿Cuál es su "mejor escenario" de impacto final?  
 * ¿Existe un impacto directo o indirecto en la comunidad educativa?  
-* **Mencionen qué herramientas de mapeo abierto han utilizado**  
+* Mencionen qué herramientas de mapeo abierto han utilizado
 * ¿Cuáles han sido las ventajas del uso de estas herramientas?
 
 # Contribuciones del mapeo colaborativo
@@ -255,7 +247,7 @@ En la identificación de la potencialidad de la herramienta, nos permite pensar 
 
 **Documentación del proceso**
 
-* Incluyan documentación: fotos, materiales, videos, etc.
+Incluyan documentación: fotos, materiales, videos, etc.
 
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4262.png)
 
