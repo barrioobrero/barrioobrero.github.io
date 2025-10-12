@@ -58,10 +58,10 @@ Es en este contexto de precariedad sociolaboral donde buscamos fortalecer herram
 
 Existen en la comunidad barrial productores a micro escala que no logran sostenerse en el tiempo, entre otros factores actores, debido a:
 
-a. la segmentación / atomización de los mismos. 
-b. modelo de producción. 
-c. Desafíos en la comercialización. Quien produce, no puede además encargarse de la venta. 
-d. Dificultades para la compra de insumos/materias primas. La mayoría de ellos compran en almacenes del barrio o en pequeñas cantidades. 
+1. la segmentación / atomización de los mismos.
+2. modelo de producción. 
+3. Desafíos en la comercialización. Quien produce, no puede además encargarse de la venta. 
+4. Dificultades para la compra de insumos/materias primas. La mayoría de ellos compran en almacenes del barrio o en pequeñas cantidades. 
 
 Teniendo en cuenta esta situación identificada, se busca fortalecer un entramado institucional barrial productivo que recupere los saberes específicos construidos desde los diferentes espacios sociales y educativos y facilitar el proceso productivo de grupos organizados y la posterior comercialización de las producciones. 
 
