@@ -2,11 +2,13 @@
 title = ""
 
 [extra]
-header = { title = "Mapeando soberanía alimentaria. Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero" }
+header = { title = "MapEdu 2025" }
 
 +++
 
-# Título del proyecto: Mapeando soberanía alimentaria. Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero.
+# Título del proyecto
+
+Mapeando soberanía alimentaria. Fortaleciendo vínculos en el territorio y la comunidad del Barrio Obrero.
 
 # Docentes Responsables
 
@@ -18,7 +20,9 @@ header = { title = "Mapeando soberanía alimentaria. Fortaleciendo vínculos en 
 - Pontoriero Eliana  
 - Bellomo Daniel 
 
-# Temática elegida: Desarrollo Social. Educación sustentable.
+# Temática elegida
+
+Desarrollo Social. Educación sustentable.
 
 # Sentido de la propuesta  
 Propuesta socioproductiva, formativa, organizativa a escala barrial, local, con proyección nacional.
@@ -55,11 +59,8 @@ Es en este contexto de precariedad sociolaboral donde buscamos fortalecer herram
 Existen en la comunidad barrial productores a micro escala que no logran sostenerse en el tiempo, entre otros factores actores, debido a:
 
 a. la segmentación / atomización de los mismos.
-
-b. modelo de producción
-
+b. modelo de producción.
 c. Desafíos en la comercialización. Quien produce, no puede además encargarse de la venta.
-
 d. Dificultades para la compra de insumos/materias primas. La mayoría de ellos compran en almacenes del barrio o en pequeñas cantidades.
 
 Teniendo en cuenta esta situación identificada, se busca fortalecer un entramado institucional barrial productivo que recupere los saberes específicos construidos desde los diferentes espacios sociales y educativos y facilitar el proceso productivo de grupos organizados y la posterior comercialización de las producciones. 
@@ -105,7 +106,7 @@ Entre otros, se sostienen los siguientes principios:
 * **Dimensión Pedagógica**: Involucra una dimensión pedagógica con estudiantes del barrio. (Grupos de estudiantes de Ciclo orientado del Instituto Quechalen, estudiantes del secundario de adultos CENMA Remedio Escalada, familias con quienes se han realizado talleres de producción de alimentos y de seguridad alimentaria)  a fin de potenciar la formación productiva.  
 * **Dimensión productiva**: entramando las Unidades productivas existentes y/o dar lugar a nuevas unidades productivas a fin de que en forma organizada y planificada puedan constituirse como grupo de trabajo estable que sostenga un volumen de la producción que aporte a la economía familiar. Visibilizando además oficios barriales. 
 
-Para fortalecer la dimensión productiva en el territorio, necesitamos entonces identificar: 
+Para fortalecer la dimensión productiva en el territorio, necesitamos entonces identificar:
 
 - Productores existentes  
 - Rubros productivos  
@@ -245,9 +246,7 @@ Desde los inicios de la escuela (año 2008), hemos tenido la certeza del valor d
 
 En la identificación de la potencialidad de la herramienta, nos permite pensar en un impacto directo en las prácticas institucionales y comunitarias pudiendo fortalecer procesos de entramado socioproductivo que puedan aportar a la construcción de una vida más digna para todos y todas. 
 
-**Documentación del proceso**
-
-Incluyan documentación: fotos, materiales, videos, etc.
+# Documentación del proceso
 
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4262.png)
 
