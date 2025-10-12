@@ -248,6 +248,12 @@ En la identificación de la potencialidad de la herramienta, nos permite pensar 
 
 # Documentación del proceso
 
+# Mapa
+
+[Mapa elaborado](https://mapa.libre.net.ar/barrio.obrero)
+
+# Fotos
+
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4262.png)
 
 ![](https://daniel.bellomo.ar/fotos/media/large/2025.09.19-Choique_visita_Quechalen/IMG_4267.png)
