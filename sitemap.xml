@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://BarrioObrero.libre.net.ar/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/archive/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/blog/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/blog/barrioobrero/</loc>
+        <lastmod>2025-10-10</lastmod>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/projects/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/projects/cool-project/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/tags/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/tags/meta/</loc>
+    </url>
+    <url>
+        <loc>https://BarrioObrero.libre.net.ar/tags/taller-de-mapeo/</loc>
+    </url>
+</urlset>
